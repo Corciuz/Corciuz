@@ -1,6 +1,6 @@
 ### Hi there! My name is Ozan Turp 👋
 
-I'm a **Game Development student at Futuregames Warsaw** with a focus on Unreal Engine 5, C++ gameplay systems, and audio integration.
+I'm a **Game Development student at Futuregames Warsaw** with a focus on Unreal Engine 5, C++ gameplay systems.
 
 Currently working on **[GP3 Team Project]**, a co-op game built in UE5 with FMOD audio integration.
 
